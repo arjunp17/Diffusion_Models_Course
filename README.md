@@ -15,9 +15,9 @@ A summary of the course 'How Diffusion Models Work' offered by DeepLearning.AI. 
 3. Conditional/Guided/Context-based Sampling
 4. Fast Sampling
   
-The pdfs of the compiled notebooks from the course are provided with some additional fun tests - [pdfs of notebooks]()
+The pdfs of the compiled notebooks from the course are provided.
 
-The full instructions from the course are documented in a [Google Colab notebook]()
+The full instructions from the course are documented in a [Google Colab notebook](https://github.com/arjunp17/Diffusion_Models_Course/blob/main/Diffusion_Models.ipynb)
 
 
 ## Additional reading list

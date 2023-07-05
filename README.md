@@ -24,5 +24,7 @@ The full instructions from the course are documented in a [Google Colab notebook
 - [How Diffusion Models work: The Math from scratch](https://theaisummer.com/diffusion-models/)
 - [Diffusion Models - Math!](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 - [Detailed Implementation](https://huggingface.co/blog/annotated-diffusion)
+- [Denoising Diffusion Probabilistic Models(DDPM)](https://arxiv.org/pdf/2006.11239.pdf)
+- [Denoising Diffusion Implicit Models(DDIM)](https://arxiv.org/pdf/2010.02502.pdf)
 - [Latent Diffusion:Text-to-Image](https://github.com/Stability-AI/stablediffusion)
 - [Latent Diffusion:Text-to-Audio](https://audioldm.github.io/)
